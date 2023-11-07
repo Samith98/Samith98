@@ -29,6 +29,7 @@
     <li><a href="https://github.com/Samith98/Projects/blob/main/Password%20Generator/README.md">Password Generator</a></li>
     <li><a href="https://github.com/Samith98/Lead_Scoring/blob/main/Lead_Scoring_Notebook.ipynb">Lead Scoring</a></li>
     <li><a href="https://github.com/Samith98/Loan_Credit/blob/main/README.md">Loan Credit - EDA</a></li>
+    <li><a href="https://github.com/Samith98/melanoma">Melanoma Detection</a></li>
 </ol>
 
 <!-- <h2>Github Profile Statistics:</h2>
