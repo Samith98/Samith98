@@ -5,23 +5,23 @@
 
 <h2 align="left">About Me</h2>
 
-- **Current Designation:** Analyst
-- **Current Company:** Tata Consultancy Services
-- **Total Experience (in Years):** 4.25 Years
+- **Current Designation:** Data Science Consultant
+- **Current Company:** Capgemini
+- **Total Experience (in Years):** 5.75 Years
 - **Skills:**
-    - **Programming Languages:** Python, C++.
+    - **Programming Languages:** Python.
     - **Database:** MySQL.
     - **Tools:** Tableau, Git, Jenkins, Jupyter-Notebook, Machine Learning, Data Science, VS Code.
-    - **Libraries:** Scikit-Learn, Pandas, Numpy, Matplotlib, Seaborn, statsmodels, Scipy.
-    - **Resume:** <a href="https://1drv.ms/b/s!AstYKyLOVi3jgukF3cDLyBKfHPQYRA?e=EsFmdr">Samith S</a>
+    - **Libraries:** Scikit-Learn, Pandas, Numpy, Matplotlib, Seaborn, statsmodels, Scipy, Tensorflow.
+    - **Resume:** <a href="[https://1drv.ms/b/s!AstYKyLOVi3jgukF3cDLyBKfHPQYRA?e=EsFmdr](https://1drv.ms/b/c/e32d56ce222b58cb/ESoxX1rdd0RCs6_tGq7YGAQBlWkcnGgQUqQkKrd1V-hePw?e=avnZOe)">Samith S</a>
 
 <h2>Experience</h2>
 <ol>
     <li>
-        <strong>Analyst | Tata Consultancy Services | 2021 - Present</strong>
+        <strong>Data Science Consultant | Capgemini | May 2024 - Present</strong>
     </li>
     <li>
-        <strong>Software Engineer | Tata Consultancy Services | 2019 - 2021</strong>
+        <strong>Analyst | Tata Consultancy Services | June 2019 - May 2024</strong>
     </li>
 </ol>
 <h2 align="left">Projects</h2>
