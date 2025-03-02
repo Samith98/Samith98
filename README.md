@@ -1,5 +1,5 @@
 <h1 align="center">Samith S</h1>
-<h2 align="center">Analyst at Tata Consultancy Services</h2>
+<h2 align="center">Data Science Consultant at Capgemini</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Samith98&label=Profile%20Views&color=0e75b6&style=flat" alt="profile veiws of Samith S" /> </p>
 
