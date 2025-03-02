@@ -13,7 +13,7 @@
     - **Database:** MySQL.
     - **Tools:** Tableau, Git, Jenkins, Jupyter-Notebook, Machine Learning, Data Science, VS Code.
     - **Libraries:** Scikit-Learn, Pandas, Numpy, Matplotlib, Seaborn, statsmodels, Scipy, Tensorflow.
-    - **Resume:** <a href="[https://1drv.ms/b/s!AstYKyLOVi3jgukF3cDLyBKfHPQYRA?e=EsFmdr](https://1drv.ms/b/c/e32d56ce222b58cb/ESoxX1rdd0RCs6_tGq7YGAQBlWkcnGgQUqQkKrd1V-hePw?e=avnZOe)">Samith S</a>
+    - **Resume:** <a href="https://1drv.ms/b/c/e32d56ce222b58cb/ESoxX1rdd0RCs6_tGq7YGAQBlWkcnGgQUqQkKrd1V-hePw?e=avnZOe">Samith S</a>
 
 <h2>Experience</h2>
 <ol>
